@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### Runthis Command for API: json-server --watch db.json
+### Run this Command for API: json-server --watch db.json
 
 ### `yarn start`
 
